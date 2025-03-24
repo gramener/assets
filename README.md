@@ -29,3 +29,41 @@ Standalone data URL:
 ```html
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNjU0IDE2NTQiPjxnIGZpbGw9IiNGRjUxMDIiPjxwYXRoIGQ9Ik01OTMgMjMxYTIzMSAyMzEgMCAxIDEgNDYyIDAgMjMxIDIzMSAwIDAgMS00NjIgMFpNMCA4MjVhMjMxIDIzMSAwIDEgMSA0NjIgMCAyMzEgMjMxIDAgMCAxLTQ2MiAwWm01OTQgNTk3YTIzMSAyMzEgMCAxIDEgNDYyIDAgMjMxIDIzMSAwIDAgMS00NjIgMFptNTk3LTU5N2EyMzAgMjMwIDAgMSAxIDQ1OSAwYzAgMTI4LTEwMyAyMzEtMjI5IDIzMWEyMzAgMjMwIDAgMCAxLTIzMC0yMzFaIi8+PHBhdGggZD0iTTY5IDk4N2MtOTAtOTAtOTAtMjM3IDAtMzI3TDY2MCA2OWEyMzEuMjI0IDIzMS4yMjQgMCAxIDEgMzI3IDMyN0wzOTYgOTg3Yy05MCA5MC0yMzcgOTAtMzI3IDBabTU5NCA1OTljLTkxLTkxLTkxLTIzNyAwLTMyN2w1OTMtNTkzYTIzMS4yMjQgMjMxLjIyNCAwIDAgMSAzMjcgMzI3bC01OTQgNTkzYy05MCA5MC0yMzYgOTAtMzI2IDBaIiBvcGFjaXR5PSIuNyIvPjxwYXRoIGQ9Ik0wIDgyNWMwLTEyOCAxMDMtMjMxIDIzMS0yMzFoMTE4OGEyMzEgMjMxIDAgMSAxIDAgNDYySDIzMUEyMzEgMjMxIDAgMCAxIDAgODI1WiIgb3BhY2l0eT0iLjciLz48L2c+PC9zdmc+">
 ```
+
+## Straive Logos (2025)
+
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-logo-red.svg" width="256" alt="Straive Logo">
+
+```html
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-logo-red.svg" width="256" alt="Straive Logo">
+```
+
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-logo-white.svg" width="256" alt="Straive Logo">
+
+```html
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-logo-white.svg" width="256" alt="Straive Logo">
+```
+
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-logo-black.svg" width="256" alt="Straive Logo">
+
+```html
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-logo-black.svg" width="256" alt="Straive Logo">
+```
+
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-mark-red.svg" width="128" alt="Straive Logo">
+
+```html
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-mark-red.svg" width="128" alt="Straive Logo">
+```
+
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-mark-white.svg" width="128" alt="Straive Logo">
+
+```html
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-mark-white.svg" width="128" alt="Straive Logo">
+```
+
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-mark-black.svg" width="128" alt="Straive Logo">
+
+```html
+<img src="https://raw.githubusercontent.com/gramener/assets/main/straive-mark-black.svg" width="128" alt="Straive Logo">
+```
